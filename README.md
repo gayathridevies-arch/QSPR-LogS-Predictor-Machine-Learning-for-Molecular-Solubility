@@ -1,0 +1,1 @@
+# QSPR-LogS-Predictor-Machine-Learning-for-Molecular-Solubility
